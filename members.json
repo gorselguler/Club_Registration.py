@@ -1,0 +1,11 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Gorsel Guler",
+      "club_type": "Sport Club",
+      "activity": "Basketball"
+    }
+  ],
+  "next_id": 2
+}
